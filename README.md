@@ -2,11 +2,6 @@
 
 This shell script automates the setup of a remote desktop environment on a Debian system using Chrome Remote Desktop and XFCE for Google Cloud CLI.
 
-## Prerequisites
-
-- A Debian system
-- Internet connection
-
 ## Usage
 
 1. Clone the repository or download the `rdp.sh` script:
