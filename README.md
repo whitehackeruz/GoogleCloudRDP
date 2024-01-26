@@ -45,10 +45,7 @@ This shell script automates the setup of a remote desktop environment on a Debia
 
 The script performs the following actions:
 
-- Downloads and installs Chrome Remote Desktop and Google Chrome.
-- Installs necessary packages for the XFCE desktop environment.
-- Configures Chrome Remote Desktop to use the XFCE session.
-- Disables the lightdm service.
+-Convert Google Cloud CLi into XFCE Desktop Virtual Machine with Google Remote Desktop RDP
 
 ## Notes
 
