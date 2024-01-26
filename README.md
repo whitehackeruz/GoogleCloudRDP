@@ -25,7 +25,7 @@ This shell script automates the setup of a remote desktop environment on a Debia
 4. Run the script:
 
     ```bash
-    ./rdp.sh
+    sudo bash ./rdp.sh
     ```
 
 5. After running the script, visit [https://remotedesktop.google.com/headless](https://remotedesktop.google.com/headless) to obtain the SSH setup script.
